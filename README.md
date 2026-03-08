@@ -1,6 +1,5 @@
 # Space Research 2
 
-```python
 # ===============================
 # Project: Space Research 2
 # Author: M. Nivetha
